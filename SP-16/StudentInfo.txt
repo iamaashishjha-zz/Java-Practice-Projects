@@ -1,0 +1,22 @@
+S3,Umesh,Mandal,Male,Rautahut,yadav@gmail.com,9808765667,II,BBM
+S5,Bishow,Adhikari,Male,Lalitpur,bisAdhikari@gmail.com,9841345667,III,BBM
+S6,Ashok,Chettri,Male,Chitwan,chetri@gmail.com,9818567876,I,BBM
+S1,Jitendra,Sharma,Male,Balaju,sharma@gmail.com,9841678765,III,BBA
+S7,Rakesh,Syangdan,Male,Kavre,rakesh@gmail.com,9818456776,I,BBM
+S8,Bishnu,Basnet,Female,Gokarna,basnet@gmail.com,9818677878,III,BBS
+S2,Mina,Ghising,Male,Nayabasti,ghising@gmailc.om,9818677889,I,BBM
+S9,Nuru ,Sherpa,Male,Kapan,sherpa@gmail.com,9841234556,I,BBM
+S10,Jenika,KC,Female,Kritipur,jeni@gmail.com,9808675654,I,BBS
+S11,Mina,Magar,Female,Patan,magarMina@gamil.com,9808677654,III,BHM
+S4,Bhim,Thapa,Male,Maitidevi,thapa@gmail.com,9841786543,II,BScIT
+S12,Jina,Moktan,Female,Gokarna,moktan@gmail.com,9808675432,I,BBM
+S13,Shiva,Rayamaji,Male,Balkhu,rayamaji@gmail.com,9841234567,I,BBM
+S14,Diya,Silwaal,Female,Tinchuli,silwaal@gmail.com,9841234556,IV,BBA
+S15,Rakesh,Syangdan,Male,Kavre,rakesh@gmail.com,9818456776,I,BBM
+S16,Bishnu,Basnet,Female,Gokarna,basnet@gmail.com,9818677878,III,BBS
+S17,Mina,Ghising,Male,Nayabasti,ghising@gmailc.om,9818677889,I,BBM
+S18,Nuru ,Sherpa,Male,Kapan,sherpa@gmail.com,9841234556,I,BBM
+S19,Umesh,Mandal,Male,Rautahut,yadav@gmail.com,9808765667,II,BBM
+S20,Bishow,Adhikari,Male,Lalitpur,bisAdhikari@gmail.com,9841345667,III,BBM
+S21,Ashok,Chettri,Male,Chitwan,chetri@gmail.com,9818567876,I,BBM
+S22,Jitendra,Sharma,Male,Balaju,sharma@gmail.com,9841678765,III,BBA

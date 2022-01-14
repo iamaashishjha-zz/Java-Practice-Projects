@@ -1,0 +1,15 @@
+B1,Networking,Bishal K.C,Technic Publication,0,1,11,1
+B2,Java,Aryan Thakur,Thakur Publication,3,1,10,2
+B5,Database,Pragyan Ghimire,Ekata Publication,5,1,1,5
+B6,System Analysis,Pragyan Ghimire,Thapathali Publication,3,1,1,6
+B7,Operating System,Roshan Tandukar,Nima Publication,6,1,1,7
+B8,Chemistry,Kila Lama,lama Publication,3,1,1,8
+B10,Chemistry,Tej Bikram Rana,Ekata Publication,0,1,1,10
+B12,Mobile Application Development,Krishna Rai,Rai Publication,4,1,2,2
+B13,Database,Pragyan Ghimire,Ekata Publication,0,1,1,5
+B14,System Analysis,Pragyan Ghimire,Thapathali Publication,3,1,1,6
+B15,Operating System,Roshan Tandukar,Nima Publication,6,1,1,7
+B16,Chemistry,Kila Lama,lama Publication,3,1,1,8
+B17,Networking,Bishal K.C,Technic Publication,0,1,1,1
+B18,Java,Aryan Thakur,Thakur Publication,3,1,1,2
+B19,C++,Suresh Chand,Chand Publication,3,1,1,3

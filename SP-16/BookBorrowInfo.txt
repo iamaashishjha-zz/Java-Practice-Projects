@@ -1,0 +1,9 @@
+S5,Bishow,Adhikari,Male,Lalitpur,bisAdhikari@gmail.com,9841345667,III,BBM,B3,C++
+S4,Monika,Tamang,Female,Maharajgunj,nika@gmail.com,9841234332,I,BBS,B1,Networking
+S7,Rakesh,Syangdan,Male,Kavre,rakesh@gmail.com,9818456776,I,BBM,B2,Java
+S2,Mina,Ghising,Male,Nayabasti,ghising@gmailc.om,9818677889,I,BBM,B1,Networking
+S5,Bishow,Adhikari,Male,Lalitpur,bisAdhikari@gmail.com,9841345667,III,BBM,B1,Networking
+S1,Jitendra,Sharma,Male,Balaju,sharma@gmail.com,9841678765,III,BBA,B1,Networking
+S2,Mina,Ghising,Male,Nayabasti,ghising@gmailc.om,9818677889,I,BBM,B2,Java
+S3,Umesh,Mandal,Male,Rautahut,yadav@gmail.com,9808765667,II,BBM,B4,C#
+,,,,,,,,,,
